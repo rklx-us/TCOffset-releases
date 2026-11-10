@@ -6,7 +6,7 @@ grandMA3 plugin for FOH delay on timecode songs.
 - New venues by frames from any preset, or worked out from FOH distance, temperature and humidity.
 - A knob that nudges the selected song one frame at a time, and a key that steps through presets, with the live
   preset shown on the executor.
-- Uninstall from the plugin's own settings.
+- One-page Set up, Reset to no offset (every song to 0, Depence only) and Uninstall from the plugin's own settings.
 
 ## Download
 Grab the zip from [Releases](../../releases/latest). Unzip, copy the `grandMA3` folder to a USB stick, and import
